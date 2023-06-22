@@ -1,0 +1,58 @@
+[
+  {
+    "image": "https://i.ibb.co/0FgZXfQ/Piano.jpg",
+    "name": "Piano",
+    "instructor_name": "John Smith",
+    "available_seats": 10,
+    "price": 50,
+    "status": "approved"
+  },
+  {
+    "image": "https://i.ibb.co/1RHPCPd/Guitar.webp",
+    "name": "Guitar",
+    "instructor_name": "Sarah Johnson",
+    "available_seats": 8,
+    "price": 40,
+    "status": "approved"
+  },
+  {
+    "image": "https://i.ibb.co/SB9VPtG/Violin.jpg",
+    "name": "Violin",
+    "instructor_name": "Michael Anderson",
+    "available_seats": 6,
+    "price": 60,
+    "status": "approved"
+  },
+  {
+    "image": "https://i.ibb.co/5jVf0rb/Drums.webp",
+    "name": "Drums",
+    "instructor_name": "David Wilson",
+    "available_seats": 4,
+    "price": 70,
+    "status": "approved"
+  },
+  {
+    "image": "https://i.ibb.co/xCrWLy4/Flute.jpg",
+    "name": "Flute",
+    "instructor_name": "Emily Thompson",
+    "available_seats": 5,
+    "price": 35,
+    "status": "approved"
+  },
+  {
+    "image": "https://i.ibb.co/VJF6Nsq/Saxophone.jpg",
+    "name": "Saxophone",
+    "instructor_name": "Robert Davis",
+    "available_seats": 3,
+    "price": 75,
+    "status": "approved"
+  },
+  {
+    "image": "https://i.ibb.co/gSZqtm0/Trumpet.jpg",
+    "name": "Trumpet",
+    "instructor_name": "Michelle Lee",
+    "available_seats": 7,
+    "price": 55,
+    "status": "pending"
+  }
+]
